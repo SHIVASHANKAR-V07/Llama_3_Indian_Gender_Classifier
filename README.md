@@ -11,8 +11,8 @@ The model was trained using [🦥 Unsloth](https://github.com/unslothai/unsloth)
 ## 🔗 Quick Links
 * **🤖 Model Weights:** [Hugging Face Model Hub](https://huggingface.co/shisha-07/Llama-3-Indian-Gender-Classifier)
     * Available in **GGUF**, **Merged (16-bit)**, and **LoRA** formats.
-* **📚 Training Dataset:** [Hugging Face Datasets](https://huggingface.co/datasets/shisha-07/Indian-Names-Gender-Dataset)
-    * Contains 42k names labeled (0=Other, 1=Male, 2=Female).
+* **📚 Training Dataset:** [Hugging Face Datasets](https://huggingface.co/datasets/shisha-07/Indian_Names_with_Gender_Dataset)
+    * Contains 42k names labeled (0=NeutralOther, 1=Male, 2=Female).
 
 ## 🛠️ Usage
 To run the model locally or in Colab, check the notebook provided above.
